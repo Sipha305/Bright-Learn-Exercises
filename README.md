@@ -1,0 +1,2 @@
+# Exerrcises
+SQL FUNDAMENTALS
